@@ -1,0 +1,2 @@
+MGnify每个数据库都提供有该文件，下载官方文件使用
+wget -c https://ftp.ebi.ac.uk/pub/databases/metagenomics/mgnify_genomes/human-gut/v2.0.2/genomes-all_metadata.tsv
